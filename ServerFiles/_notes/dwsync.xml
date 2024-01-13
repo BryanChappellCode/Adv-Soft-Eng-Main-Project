@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="info.php" server="ec2-54-237-59-171.compute-1.amazonaws.com//var/www/html/" local="133197542475322068" remote="133197542930000000" Dst="1" />
+<file name="import.php" server="ec2-54-237-59-171.compute-1.amazonaws.com//var/www/html/" local="133201898660650772" remote="133201898780000000" Dst="1" />
+<file name="importargs.php" server="ec2-54-237-59-171.compute-1.amazonaws.com//var/www/html/" local="133203765565597714" remote="133203766810000000" Dst="1" />
+<file name="importparts.php" server="ec2-54-237-59-171.compute-1.amazonaws.com//var/www/html/" local="133203729360853577" remote="133203729380000000" Dst="1" />
+<file name="index.php" server="ec2-52-14-132-11.us-east-2.compute.amazonaws.com//var/www/html/" local="133191513910000000" remote="133215677000000000" Dst="2" />
+<file name="info.php" server="ec2-52-14-132-11.us-east-2.compute.amazonaws.com//var/www/html/" local="133197542475322068" remote="133215677000000000" Dst="2" />
+<file name="importparts.php" server="ec2-52-14-132-11.us-east-2.compute.amazonaws.com//var/www/html/" local="133212063198345093" remote="133215676990000000" Dst="2" />
+<file name="importargs.php" server="ec2-52-14-132-11.us-east-2.compute.amazonaws.com//var/www/html/" local="133215707215128970" remote="133215676990000000" Dst="2" />
+<file name="import.php" server="ec2-52-14-132-11.us-east-2.compute.amazonaws.com//var/www/html/" local="133212909981195589" remote="133215676990000000" Dst="2" />
+<file name="ms-list.php" server="ec2-52-14-132-11.us-east-2.compute.amazonaws.com//var/www/html/" local="133214848445279031" remote="133215677010000000" Dst="2" />
+<file name="type-update.php" server="ec2-52-14-132-11.us-east-2.compute.amazonaws.com//var/www/html/" local="133215745721419744" remote="133215709730000000" Dst="2" />
+<file name="manu-update.php" server="ec2-52-14-132-11.us-east-2.compute.amazonaws.com//var/www/html/" local="133218105282200822" remote="133218069300000000" Dst="2" />
+<file name="search-manu.php" server="ec2-52-14-132-11.us-east-2.compute.amazonaws.com//var/www/html/" local="133227808101588361" remote="133250232810000000" Dst="2" />
+<file name="results.php" server="ec2-52-14-132-11.us-east-2.compute.amazonaws.com//var/www/html/" local="133222412410000000" remote="133250232810000000" Dst="2" />
+<file name="search-type.php" server="ec2-52-14-132-11.us-east-2.compute.amazonaws.com//var/www/html/" local="133224302931556085" remote="133224268820000000" Dst="2" />
+<file name="search-sn.php" server="ec2-52-14-132-11.us-east-2.compute.amazonaws.com//var/www/html/" local="133226087632089694" remote="133226051630000000" Dst="2" />
+<file name="search.php" server="ec2-52-14-132-11.us-east-2.compute.amazonaws.com//var/www/html/" local="133259940680194648" remote="133259940690000000" Dst="2" />
+<file name="insert-modify.php" server="ec2-52-14-132-11.us-east-2.compute.amazonaws.com//var/www/html/" local="133258925120091270" remote="133258925170000000" Dst="2" />
+<file name="insert.php" server="ec2-52-14-132-11.us-east-2.compute.amazonaws.com//var/www/html/" local="133262315948147722" remote="133262315960000000" Dst="2" />
+<file name="modify.php" server="ec2-52-14-132-11.us-east-2.compute.amazonaws.com//var/www/html/" local="133259220113670686" remote="133259220120000000" Dst="2" />
+<file name="search-api.php" server="ec2-52-14-132-11.us-east-2.compute.amazonaws.com//var/www/html/" local="133273807185475206" remote="133273807210000000" Dst="2" />
+<file name="insert-api.php" server="ec2-52-14-132-11.us-east-2.compute.amazonaws.com//var/www/html/" local="133273762490603318" remote="133273762640000000" Dst="2" />
+</dwsync>
